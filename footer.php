@@ -143,7 +143,7 @@
 
                 <!-- BOTTOM FOOTER LINKS -->
                 <div class="col">
-                    <div class="text-end" style="font-size: 16px; color: #cb0b6b;"><span>Powered by <a style="color: #cb0b6b;" target=_blank href=#><strong>Techcitypvtlmt.com</strong></a></span></div>
+                    <div class="text-end" style="font-size: 16px; color: #cb0b6b;"><span>Powered by <a style="color: #cb0b6b;" target=_blank href="https://66ad25e09e097ea731ed7b64--willowy-stardust-85c87c.netlify.app/"><strong>Techcitypvtlmt.com</strong></a></span></div>
                 </div>
 
 
