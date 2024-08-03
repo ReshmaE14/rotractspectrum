@@ -3,9 +3,6 @@
 <html lang="en">
 
 
-
-
-
 <head>
 
 	<meta charset="utf-8">
@@ -271,7 +268,7 @@
 											<div class="caption color--white">
 
 												<div class="text">
-                                               <h2 style="color: white;"><strong>Rotaract Club of <span style="color: #cb0b6b;">Spectrum</span></strong></h2>
+                                               <h2 style="color: #cb0b6b;"><strong>Rotaract Club of <span style="color: #cb0b6b;">Spectrum</span></strong></h2>
 
 												</div>
 
@@ -283,7 +280,7 @@
 
 						
 							<div class="image-container">
-								<img class="image" src="images/current/home1.png" alt="slide-background" style="border-radius: 0px; opacity: 40;">
+								<img class="image" src="images/current/mainbaner.png" alt="slide-background" style="border-radius: 0px; opacity: 40;">
 							</div>
 
 						</div> 
@@ -575,7 +572,7 @@
 
 							<!-- Button -->
 							<div class="txt-block-btn">
-								<a href="about.php" class="btn btn--tra-black hover--black">Read More</a>
+								<a href="#" class="btn btn--tra-black hover--black">Read More</a>
 							</div>
 
 
@@ -698,7 +695,7 @@
 		 <div class="row">
 			 <div class="col">
 				 <div class="more-btn">
-					<a href="gallery3.php" class="btn btn--tra-black hover--black" id="newpro">See More</a>
+					<a href="#" class="btn btn--tra-black hover--black" id="newpro">See More</a>
 				</div>
 			</div>
 		</div>	<!-- END BUTTON -->	
@@ -719,7 +716,7 @@
 					<!-- IMAGE BLOCK -->
 					<div class="col-lg-6">
 						<div class="img-block left-column wow fadeInRight">
-							<img class="img-fluid" src="images/newPhotos/m3.JPG" alt="content-image">
+							<img class="img-fluid" src="images/current/project.jpeg" alt="content-image">
 						</div>
 					</div>
 
@@ -729,12 +726,12 @@
 						<div class="txt-block right-column wow fadeInLeft">
 
 
-							<h2 class="h2-md"style="color: #cb0b6b;">Project name</h2>
+							<h2 class="h2-md"style="color: #cb0b6b;">Paadhugai</h2>
 
-                        <p>The Prayer Fellowship comes together to pray for one another, seek divine guidance, and strengthen their spiritual connection. They meet every Second Saturday of the month from 10:00 a.m. to 1:00 p.m. in the Meeting Room.</p>
-						<div class="txt-block-btn" id="newgallary">
-								<a href="about.php" class="btn btn--tra-black hover--black">Read More</a>
-							</div>
+                        <p>We provide sleepers free to the government students in a project like Paadhugai on the Rotaract club of Spectrum, and we tell them the importance of those slippers.  This is a good project with Rotaract club of spectrum and we wish that everyone will come and do upcoming projects like this.</p>
+						<!-- <div class="txt-block-btn" id="newgallary">
+								<a href="#" class="btn btn--tra-black hover--black">Read More</a>
+							</div> -->
 
 						</div>
 					</div> <!-- END TEXT BLOCK -->
@@ -769,13 +766,13 @@
 					  			<div class="hover-overlay"> 
 
 						  			<!-- Image -->
-									  <img class="img-fluid" src="images/easter/e1.jpg" alt="gallery-image">		
+									  <img class="img-fluid" src="images/current/g1.png" alt="gallery-image">		
 									<div class="item-overlay"></div>				
 									
 									<!-- Image Zoom -->
 									<div class="image-data">
 										<div class="gallery-link ico-40 color--white">
-											<a class="image-link" href="images/easter/e1.jpg">
+											<a class="image-link" href="images/current/g1.png">
 												<span class="flaticon-visibility"></span>
 											</a>
 										</div>																						 
@@ -794,13 +791,13 @@
 					  			<div class="hover-overlay"> 
 
 						  			<!-- Image -->
-									  <img class="img-fluid" src="images/easter/e1.jpg" alt="gallery-image">		
+									  <img class="img-fluid" src="images/current/g2.png" alt="gallery-image">		
 									<div class="item-overlay"></div>				
 									
 									<!-- Image Zoom -->
 									<div class="image-data">
 										<div class="gallery-link ico-40 color--white">
-											<a class="image-link" href="images/easter/e1.jpg">
+											<a class="image-link" href="images/current/g2.png">
 												<span class="flaticon-visibility"></span>
 											</a>
 										</div>																						 
@@ -817,13 +814,13 @@
 					  			<div class="hover-overlay"> 
 
 						  			<!-- Image -->
-									  <img class="img-fluid" src="images/easter/e2.jpg" alt="gallery-image">		
+									  <img class="img-fluid" src="images/current/g3.png" alt="gallery-image">		
 									<div class="item-overlay"></div>				
 									
 									<!-- Image Zoom -->
 									<div class="image-data">
 										<div class="gallery-link ico-40 color--white">
-											<a class="image-link" href="images/easter/e2.jpg">
+											<a class="image-link" href="images/current/g3.png">
 												<span class="flaticon-visibility"></span>
 											</a>
 										</div>																						 
@@ -839,13 +836,18 @@
 
 
 					<!-- INSTAGRAM LINK -->		
-			 		<div class="row">
+					 
+
+			 		<!-- <div class="row">
 			 			<div class="col">
 			 				<div class="more-btn">
-								<a href="gallery.php" class="btn btn--tra-black hover--black">See More</a>
+								<a href="#" class="btn btn--tra-black hover--black">See More</a>
 							</div>
 						</div>
-					</div>	<!-- END BUTTON -->	
+					</div>	 -->
+					
+					
+					<!-- END BUTTON -->	
 
 
 
@@ -873,6 +875,8 @@
 
 	<!-- EXTERNAL SCRIPTS
 		============================================= -->
+
+	
 	<script src="js/jquery-3.7.0.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/modernizr.custom.js"></script>
